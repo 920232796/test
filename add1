@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-11T06:55:00.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="CEoTHIlPG3GejDtKLYDx" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-11T06:57:15.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="zYe53OHdVhPFGIZ5cVnH" version="15.8.6" type="github">
   <diagram id="XbSIEOOLfTg8GKg9BGgJ" name="Page-1">
     <mxGraphModel dx="2222" dy="3180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -570,13 +570,13 @@
           <mxGeometry x="-66.43" y="451.48" width="160" height="129.14" as="geometry" />
         </mxCell>
         <mxCell id="dbkxDpT2W9c4ZavTd6za-98" value="PoolFormer Stage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry y="710" width="45" height="150.38" as="geometry" />
+          <mxGeometry x="17.5" y="800" width="45" height="150.38" as="geometry" />
         </mxCell>
         <mxCell id="dbkxDpT2W9c4ZavTd6za-99" value="PoolFormer Stage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="123.57" y="730" width="45" height="150.38" as="geometry" />
+          <mxGeometry x="161" y="800" width="45" height="150.38" as="geometry" />
         </mxCell>
         <mxCell id="dbkxDpT2W9c4ZavTd6za-100" value="PoolFormer Stage" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="-111.43" y="790" width="45" height="150.38" as="geometry" />
+          <mxGeometry x="-111.43" y="800" width="45" height="150.38" as="geometry" />
         </mxCell>
         <mxCell id="dbkxDpT2W9c4ZavTd6za-101" value="PoolFormer Encoder" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="476.12" width="238.5" height="87.76" as="geometry" />
