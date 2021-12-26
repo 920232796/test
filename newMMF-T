@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-26T12:48:54.148Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="RXd74j7lGllgUvEO06HZ" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-26T12:50:24.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="j3DnE9JLzCHcnc1wWnEi" version="16.0.0" type="github">
   <diagram id="m5-nt6O_F9wLQasZxirN" name="Page-1">
     <mxGraphModel dx="1395" dy="2011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -248,16 +248,19 @@
           <mxGeometry x="1792.5" y="50" width="60" height="29" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-97" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Up *2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1723" width="60" height="30" as="geometry" />
+          <mxGeometry x="1723" y="2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-98" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Up *2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="1792.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1792.5" y="2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-101" value="Sigmoid" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=19;strokeColor=#6c8ebf;fillColor=#dae8fc;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="-96" width="202.5" height="29.31" as="geometry" />
+          <mxGeometry x="1650" y="-91" width="202.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-102" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Up *2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontFamily=Times New Roman;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1792.5" y="-42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="npi8QSiAtzzqVYEIIKyl-103" value="Upsampled Fusion Feature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=19;fontFamily=Times New Roman;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1641.25" y="-165" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
