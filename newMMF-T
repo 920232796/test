@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T06:09:48.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="VE90fMJPqLQ_r6ei45eM" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T07:33:49.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LJmBR2bdRbpd8OAaGUsl" version="16.0.0" type="github">
   <diagram id="m5-nt6O_F9wLQasZxirN" name="Page-1">
     <mxGraphModel dx="2521" dy="2192" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -992,22 +992,22 @@
         <mxCell id="npi8QSiAtzzqVYEIIKyl-461" value="$$2\times2\times2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="185.97000000000006" y="149.2300000000001" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="npi8QSiAtzzqVYEIIKyl-465" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="npi8QSiAtzzqVYEIIKyl-465" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-13.999999999999993" y="267.48" width="151.49" height="43.16" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-477" value="&lt;p style=&quot;line-height: 1.2; font-size: 17px;&quot;&gt;`2\times`&lt;br style=&quot;font-size: 17px;&quot;&gt;Global PoolFormer Blocks&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;direction=east;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="318.34" y="211.63" width="130.55" height="148.54" as="geometry" />
         </mxCell>
-        <mxCell id="npi8QSiAtzzqVYEIIKyl-478" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="npi8QSiAtzzqVYEIIKyl-478" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="201.61" y="264.32" width="151.49" height="43.16" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-479" value="&lt;p style=&quot;line-height: 1.2; font-size: 17px;&quot;&gt;`2\times`&lt;br style=&quot;font-size: 17px;&quot;&gt;Global PoolFormer Blocks&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;fillColor=#ffe6cc;strokeColor=#d79b00;horizontal=0;direction=east;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="530.8000000000001" y="211.67999999999998" width="130.55" height="148.54" as="geometry" />
         </mxCell>
-        <mxCell id="npi8QSiAtzzqVYEIIKyl-480" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="npi8QSiAtzzqVYEIIKyl-480" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414.07" y="264.37" width="151.49" height="43.16" as="geometry" />
         </mxCell>
-        <mxCell id="npi8QSiAtzzqVYEIIKyl-482" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;" vertex="1" parent="1">
+        <mxCell id="npi8QSiAtzzqVYEIIKyl-482" value="patch embedding" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=1;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="626.07" y="264.37" width="151.49" height="43.16" as="geometry" />
         </mxCell>
         <mxCell id="npi8QSiAtzzqVYEIIKyl-484" value="$$2\times2\times2$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
