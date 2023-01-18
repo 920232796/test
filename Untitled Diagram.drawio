@@ -1,34 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2023-01-05T08:10:07.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="xaOHpYqsBSRDTDWWbjR7" version="16.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T06:53:28.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="EI_2Bjm-4HMMV2owGk9B" version="20.8.4" type="github">
   <diagram id="0XalJRFb_FaLtltL8yvP" name="Page-1">
-    <mxGraphModel dx="1130" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-1" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;基于深度学习的多模态脑肿瘤分割算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-1" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;基于深度学习的多模态脑肿瘤分割算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="240" y="190" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-2" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;基于多维度联合学习的通用医学图像自监督学习&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="nW3R6R8pkiTnBgql9zXT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-2" target="RfJ-P4A6I4sV2qX86uT7-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="844" y="150" />
+              <mxPoint x="355" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-2" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;基于多维度联合学习的通用医学图像自监督学习&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="699" y="191" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="354.5" y="220" as="sourcePoint" />
             <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-6" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;多模态脑肿瘤分割&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-6" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;多模态脑肿瘤分割&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="285" y="280" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;通用预训练模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-7" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;通用预训练模型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="774" y="280" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="843.5" y="221" as="sourcePoint" />
             <mxPoint x="844" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="354.5" y="310" as="sourcePoint" />
             <mxPoint x="235" y="380" as="targetPoint" />
@@ -38,19 +47,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-10" target="RfJ-P4A6I4sV2qX86uT7-20">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-10" target="RfJ-P4A6I4sV2qX86uT7-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-10" value="&lt;span style=&quot;line-height: 1.6 ; font-size: 13px&quot;&gt;如何利用多模态数据之间的差异性和补充信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-10" value="&lt;span style=&quot;line-height: 1.6 ; font-size: 13px&quot;&gt;如何利用多模态数据之间的差异性和补充信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="160" y="381" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-11" target="RfJ-P4A6I4sV2qX86uT7-22">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-11" target="RfJ-P4A6I4sV2qX86uT7-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-11" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;如何更好的融合多模态特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-11" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;如何更好的融合多模态特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="395" y="381" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="355" y="340" as="sourcePoint" />
             <mxPoint x="475" y="380" as="targetPoint" />
@@ -59,7 +68,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="845" y="310" as="sourcePoint" />
             <mxPoint x="665" y="380" as="targetPoint" />
@@ -69,19 +78,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-14" target="RfJ-P4A6I4sV2qX86uT7-24">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-14" target="RfJ-P4A6I4sV2qX86uT7-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-14" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;当前医学图像自监督学习算法训练步骤多&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-14" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;当前医学图像自监督学习算法训练步骤多&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="589" y="382" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-15" target="RfJ-P4A6I4sV2qX86uT7-28">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-15" target="RfJ-P4A6I4sV2qX86uT7-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-15" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;针对low-level的像素重建，没有对high-level特征的监督&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-15" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;针对low-level的像素重建，没有对high-level特征的监督&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="950" y="381" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="845" y="340" as="sourcePoint" />
             <mxPoint x="1025" y="380" as="targetPoint" />
@@ -90,62 +99,65 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-17" target="RfJ-P4A6I4sV2qX86uT7-26">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=none;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-17" target="RfJ-P4A6I4sV2qX86uT7-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-17" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;全局重建，预训练时间长&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-17" value="&lt;span style=&quot;line-height: 1.6&quot;&gt;全局重建，预训练时间长&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="770" y="382" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=13;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="845" y="340" as="sourcePoint" />
             <mxPoint x="845" y="382" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-20" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;多个模态特征单独提取，Transformer结构提升全局建模能力&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-20" value="&lt;p style=&quot;line-height: 1.6&quot;&gt;多个模态特征单独提取，Transformer结构提升全局建模能力&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="490" width="170" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-22" value="利用自注意力与互注意力机制，空间-维度两个方向融合" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-22" value="利用自注意力与互注意力机制，空间-维度两个方向融合" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="385" y="490" width="170" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-24" value="多维度端到端训练" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-24" value="多维度端到端训练" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="584" y="490" width="160" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-26" value="局部重建，突出重要区域，提升预训练速度" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-26" value="局部重建，突出重要区域，提升预训练速度" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="765" y="490" width="160" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-28" value="分层掩蔽，二级区域，利用high-level特征监督掩蔽区域位置与数量" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-28" value="分层掩蔽，二级区域，利用high-level特征监督掩蔽区域位置与数量" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;spacingTop=0;spacing=9;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="945" y="490" width="160" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="240" as="sourcePoint" />
             <mxPoint x="1100" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-31" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="320" as="sourcePoint" />
             <mxPoint x="1100" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" edge="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=13;fontColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="450" as="sourcePoint" />
             <mxPoint x="1100" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;研究目标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-34" value="&lt;font style=&quot;font-size: 18px&quot;&gt;研究目标&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="210" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;涉及问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-35" value="&lt;font style=&quot;font-size: 18px&quot;&gt;涉及问题&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="290" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;研究难点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-36" value="&lt;font style=&quot;font-size: 18px&quot;&gt;研究难点&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="390" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;解决方案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-37" value="&lt;font style=&quot;font-size: 18px&quot;&gt;解决方案&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="500" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nW3R6R8pkiTnBgql9zXT-5" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;预训练分割算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="490" y="140" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
