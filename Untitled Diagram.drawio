@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T02:09:34.906Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DFdu7mp05uawCCtmjxfx" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T02:10:59.220Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="j0uwy81SZXA3olbZAH_b" version="20.8.14" type="github">
   <diagram id="0XalJRFb_FaLtltL8yvP" name="Page-1">
     <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;基于深度学习的多模态脑肿瘤分割算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="240" y="190" width="230" height="30" as="geometry" />
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-1" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;基于深度学习的多模态脑肿瘤分割算法&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=3;" parent="1" vertex="1">
+          <mxGeometry x="240" y="190" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nW3R6R8pkiTnBgql9zXT-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" parent="1" source="RfJ-P4A6I4sV2qX86uT7-2" target="RfJ-P4A6I4sV2qX86uT7-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -16,12 +16,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;基于多维度联合学习的通用医学图像自监督学习&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="699" y="191" width="290" height="30" as="geometry" />
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-2" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;基于多维度联合学习的通用医学图像自监督学习&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;spacing=3;" parent="1" vertex="1">
+          <mxGeometry x="729" y="190" width="230" height="49" as="geometry" />
         </mxCell>
         <mxCell id="RfJ-P4A6I4sV2qX86uT7-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="354.5" y="220" as="sourcePoint" />
+            <mxPoint x="355" y="240" as="sourcePoint" />
             <mxPoint x="355" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -33,7 +33,7 @@
         </mxCell>
         <mxCell id="RfJ-P4A6I4sV2qX86uT7-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="843.5" y="221" as="sourcePoint" />
+            <mxPoint x="844" y="240" as="sourcePoint" />
             <mxPoint x="844" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
