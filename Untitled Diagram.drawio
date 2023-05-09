@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T14:11:51.047Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3Ci-BUXB_4PY8A9oVXIw" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T03:16:55.106Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IMk2JXCqW0spDC7zHb83" version="21.2.1" type="github">
   <diagram id="0XalJRFb_FaLtltL8yvP" name="Page-1">
     <mxGraphModel dx="1194" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,14 +46,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=none;fontStyle=0" parent="1" source="RfJ-P4A6I4sV2qX86uT7-10" target="RfJ-P4A6I4sV2qX86uT7-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=none;fontStyle=0" parent="1" source="RfJ-P4A6I4sV2qX86uT7-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="235" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RfJ-P4A6I4sV2qX86uT7-10" value="&lt;span style=&quot;line-height: 1.6; font-size: 19px;&quot;&gt;如何利用多模态数据之间的差异性和补充信息&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=19;fontStyle=0;fillColor=#fff9e6;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="130" y="370" width="210" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=none;fontStyle=0" parent="1" source="RfJ-P4A6I4sV2qX86uT7-11" target="RfJ-P4A6I4sV2qX86uT7-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="RfJ-P4A6I4sV2qX86uT7-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=none;fontStyle=0" parent="1" source="RfJ-P4A6I4sV2qX86uT7-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="RfJ-P4A6I4sV2qX86uT7-11" value="&lt;span style=&quot;line-height: 1.6; font-size: 19px;&quot;&gt;如何更好的融合多模态特征&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=19;fontStyle=0;fillColor=#fff9e6;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="390" y="370" width="160" height="71" as="geometry" />
@@ -107,12 +111,6 @@
             <mxPoint x="868" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-20" value="&lt;p style=&quot;line-height: 1.6; font-size: 19px;&quot;&gt;多个模态特征单独提取，Transformer结构提升全局建模能力&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=19;rounded=0;spacingTop=0;spacing=9;fontStyle=0;fillColor=#FFF9E6;" parent="1" vertex="1">
-          <mxGeometry x="125" y="490" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="RfJ-P4A6I4sV2qX86uT7-22" value="利用自注意力与互注意力机制，空间-维度两个方向融合" style="whiteSpace=wrap;html=1;fontSize=19;rounded=0;spacingTop=0;spacing=9;fontStyle=0;fillColor=#FFF9E6;" parent="1" vertex="1">
-          <mxGeometry x="380" y="490" width="180" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="RfJ-P4A6I4sV2qX86uT7-24" value="多维度端到端训练" style="whiteSpace=wrap;html=1;fontSize=19;rounded=0;spacingTop=0;spacing=9;fontStyle=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="579" y="490" width="182" height="90" as="geometry" />
         </mxCell>
@@ -158,7 +156,7 @@
             <mxPoint x="1071" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wpluBySQdmeiz41OMI_m-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;strokeWidth=3;fontStyle=0" edge="1" parent="1" source="RfJ-P4A6I4sV2qX86uT7-2" target="nW3R6R8pkiTnBgql9zXT-5">
+        <mxCell id="wpluBySQdmeiz41OMI_m-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=19;strokeWidth=3;fontStyle=0" parent="1" source="RfJ-P4A6I4sV2qX86uT7-2" target="nW3R6R8pkiTnBgql9zXT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="355" y="190" as="targetPoint" />
             <Array as="points">
@@ -169,6 +167,12 @@
         </mxCell>
         <mxCell id="nW3R6R8pkiTnBgql9zXT-5" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;预训练分割算法&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fillColor=#ffe6cc;fontStyle=0;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="510" y="120" width="170" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4gr6F_LKfNQEl_TTeXR2-1" value="多个模态特征单独提取，Transformer结构提升全局建模能力" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=19;fontStyle=0;fillColor=#fff9e6;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="130" y="490" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4gr6F_LKfNQEl_TTeXR2-2" value="利用自注意力与互注意力机制，空间-维度两个方向融合" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=0;spacing=9;fontSize=19;fontStyle=0;fillColor=#fff9e6;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="380" y="490" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
